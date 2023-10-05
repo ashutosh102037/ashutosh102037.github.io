@@ -1,28 +1,28 @@
 
-.navbar {
+#nav-menu {
     background-color: #333;
-    color: white;
-    padding: 1rem;
+    padding: 10px;
     text-align: center;
   }
   
-  .navbar ul {
-    list-style: none;
+  #nav-menu ul {
+    list-style-type: none;
     padding: 0;
   }
   
-  .navbar li {
+  #nav-menu ul li {
     display: inline;
-    margin: 0 1rem;
+    margin-right: 20px;
   }
   
-  .navbar a {
+  .nav-link {
     text-decoration: none;
-    color: white;
+    color: #fff;
     font-weight: bold;
+    font-size: 18px;
   }
   
-  .navbar a:hover {
-    border-bottom: 2px solid white;
+  .nav-link:hover {
+    text-decoration: underline;
   }
   

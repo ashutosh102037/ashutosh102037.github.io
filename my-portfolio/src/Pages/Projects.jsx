@@ -4,7 +4,8 @@ import React from 'react';
 const Projects = () => {
   return (
     <section id="projects">
-      {/* Add content for the Projects section */}
+      <h2>Projects</h2>
+      {/* Add your projects section content here */}
     </section>
   );
 };
